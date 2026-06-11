@@ -10,8 +10,15 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 4. Print the results.
 
 ## 🧾 Program
-Add code here
+~~~
+tuplex = ("s", 8, "a", "v", "n", "g", "u", "r", "c", "e")
+print("n" in tuplex)
+print( 8 in tuplex)
+~~~
 
-## Output
+## Output:
+<img width="484" height="212" alt="600717148-9e2cff63-c8a2-4193-9060-461c1f4eef13" src="https://github.com/user-attachments/assets/c4543979-f505-4096-ac2a-c4c8936d1286" />
 
-## Result
+
+## Result:
+Thus to write a Python program that checks if the element 'n' and the element 8 exist within a given tuple is done successfully.
